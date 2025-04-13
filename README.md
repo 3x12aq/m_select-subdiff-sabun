@@ -1,4 +1,4 @@
-# m_select-diff-sabun
+# m_select-subdiff-sabun
 
 beatoraja の 選曲画面のスキン m-select で難易度表の難易度を表示できるようにするための差分情報です。
 
